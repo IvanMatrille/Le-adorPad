@@ -1,1 +1,9 @@
 C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\bin\Debug\LeñadorPad.exe.config
+C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\bin\Debug\LeñadorPad.exe
+C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\bin\Debug\LeñadorPad.pdb
+C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\obj\Debug\LeñadorPad.csprojResolveAssemblyReference.cache
+C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\obj\Debug\LeñadorPad.Form1.resources
+C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\obj\Debug\LeñadorPad.Properties.Resources.resources
+C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\obj\Debug\LeñadorPad.csproj.GenerateResource.Cache
+C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\obj\Debug\LeñadorPad.exe
+C:\#UASD-semestre 201820\Lenguaje 4\LeñadorPad\LeñadorPad\LeñadorPad\obj\Debug\LeñadorPad.pdb

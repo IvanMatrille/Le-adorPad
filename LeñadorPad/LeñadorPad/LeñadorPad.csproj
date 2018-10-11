@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_circle-close_430088.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_basics-22_296812.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_format_bold_48px-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_italic-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_format_underline_48px_352397.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
